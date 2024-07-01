@@ -1,0 +1,8 @@
+@import url(resert.css);
+@import url(padrao.css);
+.campoInput {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    margin: 3rem 0;
+}
